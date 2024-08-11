@@ -58,9 +58,9 @@ class MATRIX_MULTIPLICATION{
         }
         else
             System.out.println("THE COLUMNS AND THE ROWS OF THE MATRICES DON'T MATCH");
-            System.out.println("=============================================================");
+            System.out.println("==============================================================");
             System.out.println("CODED BY THE LEGENDARY ARYAN SUR");
-            System.out.println("=============================================================");
+            System.out.println("==============================================================");
         }
     }
 }
